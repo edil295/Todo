@@ -1,3 +1,4 @@
 test = 'Test'
+test2 = 'Test 2'
 
-print(test)
+print(test, test2)
